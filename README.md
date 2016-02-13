@@ -1,6 +1,6 @@
 # Reading List
 
-This is my personal reading list of business, technology, software development, and other related books.  These are not in any particular order.
+This is my personal reading list of business, technology, software development, and other related books.  These are not in any particular order.  Yet. :-)
 
 
 ## Leadership and Management
@@ -51,7 +51,9 @@ This is my personal reading list of business, technology, software development, 
 - [The Hard Thing About Hard Things](http://www.harpercollins.com/9780062273208/the-hard-thing-about-hard-things), written by Ben Horowitz
 
 
-## Career Development and Interviewing (geared toward software development)
+## Career Development and Interviewing
+
+These are geared toward software development.
 
 - [Cracking the Tech Career](http://www.gayle.com/books/), written by Gayle Laakmann McDowell
 - [Cracking the Coding Interview](http://www.gayle.com/books/), written by Gayle Laakmann McDowell
