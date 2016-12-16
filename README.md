@@ -6,6 +6,7 @@ This is my personal reading list of business, technology, software development, 
 ## Leadership and Management
 
 - [The Five Dysfunctions of a Team](http://www.tablegroup.com/books/dysfunctions), written by Patrick Lencioni
+- [The Ideal Team Player](https://www.tablegroup.com/books/ideal-team-player), written by Patrick Lencioni
 - [The Truth About Employee Engagement](http://www.tablegroup.com/books/engagement), written by Patrick Lencioni
 - [Developing the Leader Within You](https://www.johnmaxwell.com/store/products.php?product=Developing-the-Leader-Within-You), written by John C. Maxwell
 - [Developing the Leaders Around You](http://www.johnmaxwell.com/store/products/Developing-the-Leaders-Around-You-%5BPaperback%5D.html), written by John C. Maxwell
